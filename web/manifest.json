@@ -1,0 +1,35 @@
+{
+    "name": "weathering",
+    "short_name": "weathering",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Weathering is a weather app that helps users stay informed about the latest weather conditions in their area. The app provides accurate and reliable weather data, including current temperature, humidity, wind speed and direction, and precipitation forecast.  Upon opening the app, users can either manually search for a location or allow the app to use their device's GPS to automatically detect their current location. Once a location is selected, users can view a detailed weather report for that area, including an hourly and daily forecast for the next few days. Weathering is designed with a user-friendly interface that is easy to navigate, making it a great choice for both casual users and weather enthusiasts. The app is regularly updated with new features and improvements, ensuring that users have access to the most accurate and reliable weather information available.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
